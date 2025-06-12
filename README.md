@@ -131,7 +131,8 @@ Data analysis and visualization on real estate dataset
 • Build a complete preprocessing pipeline  
 • Save and load the pipeline  
 • Validate the pipeline  
-• Document the steps  
+• Document the s
+remove it
 
 ### 5.3 Final Data Quality Checks
 • Final check for missing values  
