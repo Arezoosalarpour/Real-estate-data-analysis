@@ -139,3 +139,10 @@ remove it
 • Final outlier control  
 • Validate value ranges  
 • Check class balance (if applicable)  
+
+## Dataset
+
+This project uses the California Housing dataset available through Scikit-learn.
+
+- Source: [California Housing Dataset - Scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html)
+- Original source: UCI Machine Learning Repository
